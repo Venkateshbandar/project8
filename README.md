@@ -5,36 +5,34 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://calm-wave-0768e0b00.2.azurestaticapps.net/index.html
+**Project Link** -https://calm-wave-0768e0b00.2.azurestaticapps.net/
 **project demo video link** - 
 
 ## Azure technologies used for Project
 
 - Static web apps
--microsoft azure
+- chat bot
 
-## Features and Functionalities 😃
-
+## Features and Functionalities 
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, About Us, Contact, services, interior topics and furniture,sofa related information etc.
+- User can know about interior and furniture information through this website.
+- Included the feedback Survey form to increase the scope of improvement 
+- we also provide chat bot
 Features:
--Responsive Design on Bootstrap
--Banner Owl Carousel slider
--Video Magnific popup
--Clear and Clean Layout
--Free Google web fonts used
--Bootstrap 4 Framework
--Working Contact Form
--Cross Browser compatible
--Easy to Customize
--Font Awesome Icons
--And many more…
+-
 
 ## Screenshots
+![Screenshot (215)](https://user-images.githubusercontent.com/117730288/205049660-5f0de5b3-40db-429d-9afe-3a130a3206a3.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/117730288/205049700-832031c1-6c90-4dd1-9b50-934393aa24ce.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/117730288/205049806-7f2dbf77-1f8b-47e1-971e-bb79062a8620.png)
+![Screenshot (218)](https://user-images.githubusercontent.com/117730288/205049853-b6453a59-c44f-4216-94ec-16dca8c0b541.png)
+![Screenshot (219)](https://user-images.githubusercontent.com/117730288/205049888-c916e32a-38a0-4fb9-beae-0e9a077cc338.png)
+![Screenshot (220)](https://user-images.githubusercontent.com/117730288/205049918-f1032c6b-ad49-469b-b419-79cbce02e346.png)
+![Screenshot (221)](https://user-images.githubusercontent.com/117730288/205049948-83b5c83f-1a14-47d1-9e01-7a12ad38570b.png)
 
-![Screenshot (77)](https://user-images.githubusercontent.com/117730288/204256954-07170043-1d4e-4440-96b8-59cf6686ad0d.png)
-![Screenshot (78)](https://user-images.githubusercontent.com/117730288/204256983-1300d083-282b-4781-9576-834066024706.png)
-![Screenshot (79)](https://user-images.githubusercontent.com/117730288/204257018-83a733d0-416c-426f-a022-a41999c1a049.png)
-![Screenshot (80)](https://user-images.githubusercontent.com/117730288/204257076-885a438f-c971-405d-8672-d24d2916b71d.png)
-![Screenshot (81)](https://user-images.githubusercontent.com/117730288/204257126-bf78b80e-464f-4124-9a0a-47d415bd895f.png)
 
 
 ### About Us -
@@ -53,12 +51,13 @@ Features:
 ![Screenshot (86)](https://user-images.githubusercontent.com/117730288/204257538-91774bfe-2c1f-45f7-84b2-903e85a9b3ed.png)
 
 
-### bot
+### chat bot
+
+![Screenshot (222)](https://user-images.githubusercontent.com/117730288/205050097-41d46975-6840-49c5-825f-55abb01f280e.png)
 
 
 
-
-## Tech Stack 💻
+## Tech Stack 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
