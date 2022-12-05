@@ -25,13 +25,22 @@ Features:
 -
 
 ## Screenshots
-![Screenshot (215)](https://user-images.githubusercontent.com/117730288/205049660-5f0de5b3-40db-429d-9afe-3a130a3206a3.png)
-![Screenshot (216)](https://user-images.githubusercontent.com/117730288/205049700-832031c1-6c90-4dd1-9b50-934393aa24ce.png)
-![Screenshot (217)](https://user-images.githubusercontent.com/117730288/205049806-7f2dbf77-1f8b-47e1-971e-bb79062a8620.png)
-![Screenshot (218)](https://user-images.githubusercontent.com/117730288/205049853-b6453a59-c44f-4216-94ec-16dca8c0b541.png)
-![Screenshot (219)](https://user-images.githubusercontent.com/117730288/205049888-c916e32a-38a0-4fb9-beae-0e9a077cc338.png)
-![Screenshot (220)](https://user-images.githubusercontent.com/117730288/205049918-f1032c6b-ad49-469b-b419-79cbce02e346.png)
-![Screenshot (221)](https://user-images.githubusercontent.com/117730288/205049948-83b5c83f-1a14-47d1-9e01-7a12ad38570b.png)
+![Screenshot (434)](https://user-images.githubusercontent.com/117730288/205574413-376af51c-21cc-46df-b14b-ca7e84fac2bf.png)
+![Screenshot (435)](https://user-images.githubusercontent.com/117730288/205574495-b1ec8fcd-794f-4f54-b2ba-e656210c7999.png)
+![Screenshot (436)](https://user-images.githubusercontent.com/117730288/205574522-bfe3a36a-5ad3-4efc-b97e-acb131b0eba4.png)
+![Screenshot (437)](https://user-images.githubusercontent.com/117730288/205574565-6aadf5a4-1937-4bb1-a2af-8e2311b22506.png)
+![Screenshot (438)](https://user-images.githubusercontent.com/117730288/205574595-b4672eb9-750b-48cc-a485-81c252b77734.png)
+![Screenshot (439)](https://user-images.githubusercontent.com/117730288/205574634-47f5d8f6-a3c0-4549-b5ac-c0a33782670d.png)
+![Screenshot (440)](https://user-images.githubusercontent.com/117730288/205574645-fc2571f1-8fe6-45ba-bba0-7c676321ba16.png)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -62,4 +71,4 @@ Features:
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- java
+- JAVA
